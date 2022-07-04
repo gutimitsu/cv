@@ -1,5 +1,16 @@
 # 業務経歴書
 
+## 基本情報
+|key|value|
+| ------------- | ------------- |
+|名前|橋本　光純/Hashimoto Mitsusumi/하시모토 미츠스미|
+|生息地|韓国・ソウル/Korea・Seoul/한국・서울|
+|Twitter|@gutimitsu1119|
+|note|@gutimitsu|
+|ポートフォリオ|@gutimitsu|
+|英語力|TOEIC940点|
+|韓国語|TOPIK5級|
+
 ## 概要
 
 クラウドアーキテクチャ設計、クラウドインフラ構築管理、基盤コード開発、DevOps/MLOps等が現在の専門です。
