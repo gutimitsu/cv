@@ -13,39 +13,27 @@
 
 ## 概要
 
-クラウドアーキテクチャ設計、クラウドインフラ構築管理、基盤コード開発、DevOps/MLOps等が現在の専門です。
+- バックエンド&クラウドインフラエンジニアです。
+- バックエンドの言語/DB/フレームワークを用いた開発経験があり、AWSの様々なマネージドサービスに精通しています。
+- 改修フェーズや保守運用フェーズを担当してきました。
 
-小規模〜中規模サービスの新規開発フェーズにおいて非常に有用なタイプのエンジニアだと思います。
 
 ## スキル
 
+- 基本的にすべて実業務で使用した技術だけを列挙しています。
+
 ### 言語
 
-※すべて実業務で数ヶ月以上使用した言語だけを列挙しています。最近比較的よく使っている言語はGoとPythonです。
-
-- Rust
-- Kotlin
-- Scala
-- Java
-- Go
-- Elixir
-- Ruby
-- Python
 - PHP
-- Perl
-- JavaScript
-- TypeScript
-- VC++
-- C#
-- Delphi
-- Objective-C
+
+### フレームワーク
+
+- Laravel
+- Vue.js
 
 ### RDB
 
-- MySQL
-- PostgreSQL
-- Oracle
-- SQL Server
+- MySQL(MariaDB)
 
 ### クラウド
 
@@ -54,24 +42,16 @@
 - VPC
 - S3
 - Cloud Front
-- API Gateway
-- Lambda
+- ELB
 - EC2
 - ECS
-- Beanstalk
+- Fargate
 - Route53
 - IAM
-- Cognito
-- Cloud Watch
-- Elasticsearch
-- RDS(MySQL/PostgreSQL)
-- Aurora
-- DynamoDB
-- Kinesis
-- Kinesis firehose
+- RDS(MySQL)
+- ElastiCache(Redis)
 - SQS
 - SNS
 - SES
-- Redshift
-- EMR(Spark)
 - Cloud Formation
+- CloudWatch
