@@ -17,7 +17,6 @@
 - バックエンドの言語/DB/フレームワークを用いた開発経験があり、AWSの様々なマネージドサービスに精通しています。
 - 改修フェーズや保守運用フェーズを担当してきました。
 
-
 ## スキル
 
 - 基本的にすべて実業務で使用した技術だけを列挙しています。
@@ -55,3 +54,28 @@
 - SES
 - Cloud Formation
 - CloudWatch
+
+### SaaS/PaaS
+
+- GitHub
+- GitHub Actions
+- CircleCI
+- TestFlight
+
+### その他
+
+- Terraform
+- Docker
+- nginx
+- Apache
+- Webpack
+
+## バリューを発揮しやすい業務
+
+- CIサービスの導入
+- コンテナ化(Docker化)
+- インフラのコード化
+- デプロイの自動化
+
+## 主な業務経歴
+
